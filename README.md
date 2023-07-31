@@ -2,6 +2,8 @@
 
 ## Overview
 
+Note: This project was made for the Applied Internet Tecnologies course at NYU.
+
 Games utilize various strategies to keep players interested about the game and motivated to pursue objectives presented in them. An interesting storyline, vaious bosses to fight, the level up and ability systems all aim to keep the player engaged. These mechanisms target our innate desire to see progress and provide a reliable sense of achievement.
 
 One problem with habit formation is that the rewards of sticking to a habit often come so slowly that it is hard for our brains to notice the immediate impact of our actions. This makes it harder for our habits to stick. This app aims to implement strategies used in games on a habit tracker so the user is more likely to follow through their habits.
